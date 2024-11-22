@@ -15,6 +15,9 @@ This project was developed as part of the **Image Processing for Computer Vision
 
 ## **Results**
 
+- Self-designed neural network reached **66%** accuracy on test set
+- A fine-tuned Resnet-18 reached **87%** accuracy on test set
+
 ---
 
 ## **License**
